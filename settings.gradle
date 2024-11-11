@@ -1,4 +1,5 @@
-pluginManagement {
+
+A CASSIOPEIA FINALMENTE ESTÁ FORTE NOVAMENTE! pluginManagement {
     repositories {
         google()
         mavenCentral()
